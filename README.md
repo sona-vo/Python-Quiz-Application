@@ -199,8 +199,6 @@ Possible improvements for future versions:
 
 Sona V O
 
-Python Developer Intern
-
 🙏 Acknowledgement
 
 This project was developed as part of my Python Developer Internship at Cognorise Info Tech.
